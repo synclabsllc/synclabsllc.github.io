@@ -4,7 +4,7 @@ const messageBox = document.querySelector(".message-box");
 const switchBtn = document.querySelector(".switch-button");
 
 let API_URL = "https://accurately-wanted-hyena.ngrok-free.app/get_chat?prompt="
-let SENIOR_ID = "&senior_id=thYywbyoahbtZvw_&model="
+let SENIOR_ID = "&senior_id=ubt[nftaa`twytxm&model="
 let MODEL = "local"
 
 /*"https://api.openai.com/v1/chat/completions";
